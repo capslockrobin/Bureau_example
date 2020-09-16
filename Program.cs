@@ -36,6 +36,7 @@ class Program
             }
 
             Console.WriteLine($"Byrån innehåller nu {contents}");
+            Console.WriteLine("ändrat i text");
         }
     }
 }
